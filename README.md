@@ -30,7 +30,7 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Artis7eeR/ForwardTagRemoverBot)
 
-[![GitHub forks](https://img.shields.io/github/forks/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://GitHub.com/Artis7eeR/ForwardTagRemoverBot/network/)
+[![GitHub forks](https://github.com/sharingfiles/ForwardTagRemoverBot)](https://GitHub.com/Artis7eeR/ForwardTagRemoverBot/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/Artis7eeR/ForwardTagRemoverBot/)
 
 
